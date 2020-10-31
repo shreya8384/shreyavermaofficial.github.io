@@ -152,6 +152,9 @@ section{
     text-align: center;
      background-color:#790c5a
 }
+.contact .inner div p{
+    font-size: 20px;
+}
 /* responsive desiging*/
 @media(min-width:320px) and (max-width:767px){
     .home .inner img{
