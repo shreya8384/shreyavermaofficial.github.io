@@ -157,16 +157,15 @@ section{
      background-color:#790c5a
 }
 .contact .inner div p{
-<<<<<<< Updated upstream
-    font-size: 20px;
+    font-size: 40px;
 }
-=======
-        font-size: 40px;
+
+       
     
 }
 
 .footer {
-     background-color:gray;
+    background-color:gray;
     display: table;
     height: 8vh;
     width: 100%;
@@ -192,7 +191,7 @@ section{
   
 
 
->>>>>>> Stashed changes
+
 /* responsive desiging*/
 @media(min-width:320px) and (max-width:767px){
     .home .inner img{
