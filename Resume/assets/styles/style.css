@@ -173,8 +173,8 @@ section{
 	}
 .footer .inner div{
     width:5%;
-    margin-left:40px;
-    margin-right:40PX;
+    margin-left:50px;
+    margin-right:50PX;
     float:left;
     text-align: center;
     
@@ -233,8 +233,8 @@ section{
     .footer .inner div img{
     width:30x;
     height:30px;
-    /* margin-left:10px;*/
-    margin-right:20pX;
+      margin-left:50px;
+    margin-right:30pX;
          padding-top: 6px;
     
 }
